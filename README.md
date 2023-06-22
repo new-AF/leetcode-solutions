@@ -6,3 +6,4 @@
 | :heavy_check_mark: [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                    | JavaScript        | Easy       |
 | :heavy_check_mark: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                      | JavaScript        | Easy       |
 | :heavy_check_mark: [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | JavaScript        | Easy       |
+| :heavy_check_mark: [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                        | JavaScript        | Medium     |
