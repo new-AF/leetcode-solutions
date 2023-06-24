@@ -7,4 +7,4 @@
 | :heavy_check_mark: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                      | JavaScript        | Easy       |
 | :heavy_check_mark: [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | JavaScript        | Easy       |
 | :heavy_check_mark: [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                        | JavaScript        | Medium     |
-| :heavy_check_mark: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                        | JavaScript        | Medium     |
+| :heavy_check_mark: [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                  | JavaScript        | Easy       |
