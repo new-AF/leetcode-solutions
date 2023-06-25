@@ -9,8 +9,5 @@
 | :heavy_check_mark: [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                        | JavaScript        | Medium     |
 | :heavy_check_mark: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                        | JavaScript        | Medium     |
 | :heavy_check_mark: [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                  | JavaScript        | Easy       |
-
-| :heavy_check_mark: [Snapshot Array
-](https://leetcode.com/problems/snapshot-array/) | JavaScript | Medium |
-| :heavy_check_mark: [Binary Search
-](https://leetcode.com/problems/binary-search/) | JavaScript | Easy |
+| :heavy_check_mark: [Snapshot Array](https://leetcode.com/problems/snapshot-array/)                                          | JavaScript        | Medium     |
+| :heavy_check_mark: [Binary Search](https://leetcode.com/problems/binary-search/)                                            | JavaScript        | Easy       |
