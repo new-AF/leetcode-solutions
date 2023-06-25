@@ -48,6 +48,6 @@ for (let [array, target] of [
     [[-1, 0, 3, 5, 9, 12], 12],
     [[-1, 0, 3, 5, 9, 12], 19],
 ]) {
-    const result = search(array, 1);
+    const result = search(array, target);
     console.log({ array, target, result });
 }
