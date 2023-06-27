@@ -17,7 +17,7 @@ var getAverages = function (nums, k) {
 
     // precompute sum of the first k radius
     const sumOrig = nums.slice(0, diameter).reduce((acc, el) => acc + el, 0);
-    if (min < max && min < length) {
+    if (min <= max && min < length) {
         ans[min] = sumOrig;
     }
 
@@ -39,5 +39,11 @@ var getAverages = function (nums, k) {
     return ans;
 };
 /* tests */
-const array1 = [7, 4, 3, 9, 1, 8, 5, 2, 6];
-console.log(getAverages(array1, 3));
+for (let [array, k] of [
+    [[7, 4, 3, 9, 1, 8, 5, 2, 6], 3],
+    [[100], 0],
+    [[1], 100],
+    [[1, 11, 17, 21, 29], 4],
+]) {
+    console.log({ array, k, result: getAverages(array, k) });
+}
