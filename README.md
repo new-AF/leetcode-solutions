@@ -14,3 +14,4 @@
 | :heavy_check_mark: [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages)                              | JavaScript        | Medium     |
 | :heavy_check_mark: [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | JavaScript        | Easy       |
 | :heavy_check_mark: [Remove Element](https://leetcode.com/problems/remove-element/)                                                     | JavaScript        | Easy       |
+| :heavy_check_mark: [Two Sum](https://leetcode.com/problems/two-sum/)                                                                   | JavaScript        | Easy       |
