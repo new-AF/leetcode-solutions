@@ -1,10 +1,10 @@
 /**
  * @param {number} x
  * @return {boolean}
- * solution: reverse string and compare original with new
+ * solution: convert number to string, reverse string and compare original with new
  */
-var isPalindrome = function (x) {
-    const str = String(x);
+function isPalindrome (number) {
+    const str = String(number);
     const array = Array.from(str);
     array.reverse();
     const str2 = array.join("");
